@@ -22,6 +22,7 @@ So I can refer to them later
 ## Links 
 ![Git Repo Link. ](https://github.com/DanDeLuna/19SuperCooltexteditor)
 ![Heroku link.](https://jate-12-34-56-9703ae224177.herokuapp.com/)
+https://jate-12-34-56-9703ae224177.herokuapp.com/
 
 
 
